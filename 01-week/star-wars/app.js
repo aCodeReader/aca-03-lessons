@@ -6,7 +6,7 @@ const id = 2
 // creates a variable that holds the element we want to use later
 const displayData = document.getElementById('displayData')
 
-// a function we can call. We're calling it on the button click here.
+// onClick function on <button> element in HTML
 const getCharacter = () => {
 	fetch(`https://swapi.co/api/people/${id}/`, {
         method: 'get',
