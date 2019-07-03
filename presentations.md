@@ -2,6 +2,10 @@
 
 ## Week 1
 
+### Day 1
+
+* Create presentation schedule
+
 ### Day 2
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
