@@ -10,15 +10,33 @@
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
 
+    * First:
+
+    * Second: 
+
+    * Third: 
+
 ## Week 2
 
 ### Day 1
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
 
+    * First:
+
+    * Second: 
+
+    * Third: 
+
 ### Day 2
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
+
+    * First:
+
+    * Second: 
+
+    * Third: 
 
 ## Week 3
 
@@ -86,12 +104,30 @@ Teach the class about Stress, Spike and Unit Testing. Why? What? And How are the
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
 
+    * First:
+
+    * Second: 
+
+    * Third: 
+
 ## Week 8
 
 ### Day 1
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
 
+    * First:
+
+    * Second: 
+
+    * Third: 
+
 ### Day 2
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
+
+    * First:
+
+    * Second: 
+
+    * Third: 
