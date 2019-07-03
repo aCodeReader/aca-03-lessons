@@ -6,12 +6,16 @@ const displayData = document.getElementById('displayData')
 
 // a function we can call. We're calling it on the button click here.
 const getCharacter = () => {
-	fetch(`https://swapi.co/api/people/${id}/?format=json`)
-    .then(response => {
+	fetch(`https://swapi.co/api/people/${id}/`, {
+        method: 'get',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+    }).then(response => {
             response.json()
         .then(data => {
             console.log(data)
             displayData.innerHTML = data.name
-        });
+        }).catch(error => console.log('We have a problem: ', error));
     });
 }
