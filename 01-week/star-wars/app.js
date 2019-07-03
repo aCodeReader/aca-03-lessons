@@ -1,3 +1,5 @@
+// Excellent fetch resource: https://css-tricks.com/using-fetch/
+
 // the id we want to fetch
 const id = 2
 
