@@ -10,11 +10,11 @@
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
 
-    * First:
+    * First: Alex
 
-    * Second: 
+    * Second: Jacob
 
-    * Third: 
+    * Third: Greta
 
 ## Week 2
 
@@ -22,21 +22,21 @@
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
 
-    * First:
+    * First: Gina
 
-    * Second: 
+    * Second: Jessica
 
-    * Third: 
+    * Third: Miranda
 
 ### Day 2
 
 * Pitch your graduation app to the class. What’s the problem? How does this app solve it?
 
-    * First:
+    * First: Will
 
-    * Second: 
+    * Second: Lorianne
 
-    * Third: 
+    * Third: Josh
 
 ## Week 3
 
