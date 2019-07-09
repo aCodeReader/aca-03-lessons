@@ -68,7 +68,7 @@
 
 ## Week 5
 
-### Day 1
+### Day 1 - Jessica
 
 * What are NoSQL databases? What are the different types of NoSQL databases? Explain SQL vs NoSQL.
 
