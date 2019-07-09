@@ -46,7 +46,7 @@
 
 * In order to build a site optimized for organic search engine rankings, it is important to implement certain standards throughout the code. These things are:
 
-### Day 2
+### Day 2 - Greta
 
 * What is multi-threading? Why and How to you use it?
 
