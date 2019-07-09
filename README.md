@@ -66,7 +66,7 @@ Design a REST API for photo album site.
 
 * How do you write a list request with Axios?
 
-* What is the client-server model?
+* What is the client-server model? [Description using a bank](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 
 ### Lesson
 
