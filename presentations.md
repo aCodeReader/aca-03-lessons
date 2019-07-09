@@ -15,6 +15,8 @@
     * Second: Jacob
 
     * Third: Greta
+    
+    * Fourth: Josh
 
 ## Week 2
 
@@ -35,8 +37,6 @@
     * First: Will
 
     * Second: Lorianne
-
-    * Third: Josh
 
 ## Week 3
 
@@ -104,11 +104,11 @@ Teach the class about Stress, Spike and Unit Testing. Why? What? And How are the
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
 
-    * First:
+    * First: Alex
 
-    * Second: 
+    * Second: Jacob
 
-    * Third: 
+    * Third: Greta
 
 ## Week 8
 
@@ -116,18 +116,18 @@ Teach the class about Stress, Spike and Unit Testing. Why? What? And How are the
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
 
-    * First:
+    * First: Gina
 
-    * Second: 
+    * Second: Jessica
 
-    * Third: 
+    * Third: Miranda
 
 ### Day 2
 
 * App presentations: Walk the class through the life-cycle of your app? Describe challenges and special features as you show-and-tell your code.
 
-    * First:
+    * First: Will
 
-    * Second: 
+    * Second: Lorianne
 
-    * Third: 
+    * Third: Josh
