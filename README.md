@@ -52,9 +52,31 @@ and do it all over again...
 
 ### Whiteboarding!
 
+Design a REST API for photo album site.
+
+What resources would the API support?
+What operations can be done on those resources, and what HTTP verb would be used for each?
+What would the body of a request and response look like for each operation?
+
 ### Discussion questions
 
+What's the difference between a "design pattern" and a "framework"?
+How do you write a list request with Axios?
+What is the client-server model?
+What is a resource, with respect to a REST API?
+What are some of the fundamental constraints that make an API RESTful?
+What does the acronym CRUD stand for? How does it relate to a REST API?
+Which HTTP verbs are used to retrieve, create, update, and delete resources?
+What are some common HTTP status codes and what do they mean?
+What are some common HTTP headers and what are they used for?
+What is JSON?
+What formats are supported by REST APIs?
+
 ### Lesson
+
+* Review first assigment - hangups, erros, "good to knows"
+
+* Make sure everyone has Postman installed and working
 
 * [Axios](https://aca-js311.herokuapp.com/_book/01Week/02DayClass.html)
 
